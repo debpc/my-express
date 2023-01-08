@@ -1,2 +1,2 @@
 # my-express
-An exemple of Express Rest Api.
+A simple example of Express Rest Api.
